@@ -10,25 +10,25 @@ typedef struct node {
 
 // Crear un nuevo nodo
 node_t* crearNodo(int valor) {
-    // TODO: reservar memoria y asignar valor
+    // ToDo: reservar memoria y asignar valor
     return NULL; 
 }
 
 // Recorridos recursivos
 void preOrden(node_t* raiz) {
-    // TODO: implementar recorrido pre-orden
+    // ToDo: implementar recorrido pre-orden
 }
 
 void inOrden(node_t* raiz) {
-    // TODO: implementar recorrido in-orden
+    // ToDo: implementar recorrido in-orden
 }
 
 void postOrden(node_t* raiz) {
-    // TODO: implementar recorrido post-orden
+    // ToDo: implementar recorrido post-orden
 }
 
 int main() {
-    // TODO: construir un árbol manualmente con 5 nodos
+    // ToDo: construir un árbol manualmente con 5 nodos
     // Ejemplo sugerido:
     //        10
     //       /  \
